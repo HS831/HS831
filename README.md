@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm Harshit Mishra, a passionate self-taught backend web developer and an aspiring software engineer from India. My passion for software lies with building scalable and optimized sever side applications. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Harshit Mishra, a passionate self-taught full-stack web developer and an aspiring software engineer from India. My passion for software lies with building scalable and optimized web applications. I take great care in the experience, architecture, and code quality of the things I build.
 
 
   
